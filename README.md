@@ -1,9 +1,6 @@
-# ACS 2130 Core Data Structures
-Joseph Paul
-
 ## Project - Word Jumble
 
-### Course Concepts Applied
+### ACS 2130 Core Data Structures Course Concepts Applied
 
 This Word Jumble solver demonstrates practical application of key data structures and algorithms concepts covered in this course:
 
